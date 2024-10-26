@@ -6,19 +6,14 @@
 </h1>
 
 <!-- Display image below God's design, my code -->
-<img src="./pcart.png" alt="God's Design, My Code Art" width="400" style="margin-top: 20px;">
+<!-- <img src="./pcart.png" alt="God's Design, My Code Art" width="400" style="margin-top: 20px;"> -->
 
 <!-- Profile Views -->
 <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
   <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&color=gray" alt="Profile Views">
 </div>
 
-<!-- Subtle, clean wave animation -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
-  <path fill="#007aff" fill-opacity="0.9" d="M0,224L40,192C80,160,160,96,240,85.3C320,75,400,117,480,138.7C560,160,640,160,720,128C800,96,880,32,960,37.3C1040,43,1120,117,1200,144C1280,171,1360,149,1400,138.7L1440,128L1440,320L1400,320C1360,320,1280,320,1200,320C1120,320,1040,320,960,320C880,320,800,320,720,320C640,320,560,320,480,320C400,320,320,320,240,320C160,320,80,320,40,320L0,320Z"></path>
-</svg>
-
-<hr style="border: 1px solid #eaeaea; width: 80%;">
+<!-- <hr style="border: 1px solid #eaeaea; width: 80%;">
 
 <!-- Featured Project / Song -->
 <h2 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #007aff;">
@@ -50,6 +45,6 @@
   <img src="https://img.shields.io/badge/-Python%20Flask-333333?style=for-the-badge&logo=python">
 </div>
 
-<hr style="border: 1px solid #eaeaea; width: 80%;">
+<hr style="border: 1px solid #eaeaea; width: 80%;"> -->
 
 </div>
