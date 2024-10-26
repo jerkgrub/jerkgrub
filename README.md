@@ -1,15 +1,16 @@
 <div align="center">
 
-<!-- Main Header with bold, large text -->
-<h1 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #333333; font-weight: bold; font-size: 3rem;">
+<!-- Main Header with larger bold text -->
+<h1 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #333333; font-weight: bold; font-size: 4rem;">
   God’s design, my code.
 </h1>
 
-<!-- Profile Views and Stats -->
+<!-- Display image below God's design, my code -->
+<img src="./pcart.png" alt="God's Design, My Code Art" width="400" style="margin-top: 20px;">
+
+<!-- Profile Views -->
 <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
   <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&color=gray" alt="Profile Views">
-  <img src="https://img.shields.io/github/commits-since/YourGitHubUsername/main.svg?label=Total%20Commits&color=gray" alt="Total Commits">
-  <img src="https://img.shields.io/github/repo-count/YourGitHubUsername?label=Repositories&color=gray" alt="Total Repositories">
 </div>
 
 <!-- Subtle, clean wave animation -->
@@ -36,9 +37,9 @@
 <hr style="border: 1px solid #eaeaea; width: 80%;">
 
 <!-- Skills Section -->
-<h3 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #333333;">
-  My Tech Stack:
-</h3>
+<h2 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #007aff;">
+  My Tech Stack
+</h2>
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
   <img src="https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react&logoColor=61DAFB">
