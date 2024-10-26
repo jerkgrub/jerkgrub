@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 style="background: linear-gradient(to right, #00C9FF, #92FE9D); -webkit-background-clip: text; color: transparent;">
+<h1 style="color: transparent;">
   God’s design, my code.
 </h1>
 
@@ -10,7 +10,7 @@
 
 <hr style="border: 1px solid #eaeaea; width: 80%;">
 
-<h1 style="background: linear-gradient(to right, #00C9FF, #92FE9D); -webkit-background-clip: text; color: transparent;">
+<h1 style="color: transparent;">
   Sumakay Ka Na
 </h1>
 <!-- Display the cover art for Sumakay Ka Na -->
