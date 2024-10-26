@@ -4,7 +4,14 @@
   God’s design, my code.
 </h1>
 
+<!-- Profile Views -->
 ![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=green)
+
+<!-- Total Commits -->
+![Total Commits](https://badgen.net/github/commits/YourGitHubUsername/YourRepositoryName?icon=github)
+
+<!-- Total Repositories -->
+![Total Repositories](https://badgen.net/github/repos/YourGitHubUsername)
 
 <hr style="border: 1px solid #eaeaea; width: 80%;">
 
