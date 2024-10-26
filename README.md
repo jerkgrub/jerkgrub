@@ -18,7 +18,7 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=jerkgrub&theme=react-dark&bg_color=20232a&hide_border=true">
 </div>
 
-<h2>🎵 Sumakay Ka Na 🎶</h2>
+# 🎺 Sumakay Ka Na
 
 <!-- Display the cover art for Sumakay Ka Na -->
 <div align="center">
