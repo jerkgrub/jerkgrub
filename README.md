@@ -13,7 +13,7 @@
 <hr style="border: 1px solid #eaeaea; width: 80%;">
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=YourGitHubUsername&theme=react-dark&bg_color=20232a&hide_border=true">
+  <img src="https://activity-graph.herokuapp.com/graph?username=jerkgrub&theme=react-dark&bg_color=20232a&hide_border=true">
 </div>
 
 <h2>🎵 Sumakay Ka Na 🎶</h2>
