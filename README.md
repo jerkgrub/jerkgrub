@@ -1,12 +1,16 @@
 <div align="center">
 
-<!-- Main Header -->
-<h1 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #333333; font-weight: 500;">
+<!-- Main Header with bold, large text -->
+<h1 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #333333; font-weight: bold; font-size: 3rem;">
   God’s design, my code.
 </h1>
 
-<!-- Profile Views with a clean look -->
-<img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&color=gray" alt="Profile Views">
+<!-- Profile Views and Stats -->
+<div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
+  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&color=gray" alt="Profile Views">
+  <img src="https://img.shields.io/github/commits-since/YourGitHubUsername/main.svg?label=Total%20Commits&color=gray" alt="Total Commits">
+  <img src="https://img.shields.io/github/repo-count/YourGitHubUsername?label=Repositories&color=gray" alt="Total Repositories">
+</div>
 
 <!-- Subtle, clean wave animation -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
