@@ -5,9 +5,11 @@
 </h1>
 
 <!-- Profile Views -->
+
 ![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=green)
 
 <!-- Total Commits Across All Repositories -->
+
 ![Total Commits](https://github-readme-stats.vercel.app/api?username=jerkgrub&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 
 <hr style="border: 1px solid #eaeaea; width: 80%;">
@@ -19,13 +21,13 @@
 <h2>🎵 Sumakay Ka Na 🎶</h2>
 
 <!-- Display the cover art for Sumakay Ka Na -->
+<div style="display: flex; flex-direction: column; align-items: center; gap: 2rem" >
 <img src="./coverart.png" alt="Sumakay Ka Na Cover Art" width="300">
 
 <a href="https://open.spotify.com/artist/1XUjTPGaD0a6GllY8F7gY2" target="_blank">
   <img src="https://img.shields.io/badge/Listen%20on-Spotify-green?style=for-the-badge&logo=spotify" alt="Listen to Sumakay Ka Na on Spotify">
 </a>
-
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200" alt="Coding GIF">
+</div>
 
 <hr style="border: 1px solid #eaeaea; width: 80%;">
 
