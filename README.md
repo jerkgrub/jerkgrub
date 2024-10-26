@@ -8,18 +8,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=green)
 
-<!-- Total Commits Across All Repositories -->
-
-![Total Commits](https://github-readme-stats.vercel.app/api?username=jerkgrub&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
-
 <hr style="border: 1px solid #eaeaea; width: 80%;">
 
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=jerkgrub&theme=react-dark&bg_color=20232a&hide_border=true">
-</div>
-
-# 🎺 Sumakay Ka Na
-
+<h1 style="background: linear-gradient(to right, #00C9FF, #92FE9D); -webkit-background-clip: text; color: transparent;">
+  Sumakay Ka Na
+</h1>
 <!-- Display the cover art for Sumakay Ka Na -->
 <div align="center">
   <img src="./coverart.png" alt="Sumakay Ka Na Cover Art" width="300">
@@ -30,7 +23,6 @@
 </div>
 
 <hr style="border: 1px solid #eaeaea; width: 80%;">
-
 <!-- Additional Sections -->
 <h3>Skills</h3>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript">
