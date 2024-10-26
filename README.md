@@ -10,10 +10,11 @@
 <!-- Total Commits Across All Repositories -->
 ![Total Commits](https://github-readme-stats.vercel.app/api?username=jerkgrub&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 
-<!-- Total Repositories -->
-![Total Repositories](https://badgen.net/github/repos/jerkgrub)
-
 <hr style="border: 1px solid #eaeaea; width: 80%;">
+
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=YourGitHubUsername&theme=react-dark&bg_color=20232a&hide_border=true">
+</div>
 
 <h2>🎵 Sumakay Ka Na 🎶</h2>
 
