@@ -18,6 +18,9 @@
 
 <h2>🎵 Sumakay Ka Na 🎶</h2>
 
+<!-- Display the cover art for Sumakay Ka Na -->
+<img src="./coverart.png" alt="Sumakay Ka Na Cover Art" width="300">
+
 <a href="https://open.spotify.com/artist/1XUjTPGaD0a6GllY8F7gY2" target="_blank">
   <img src="https://img.shields.io/badge/Listen%20on-Spotify-green?style=for-the-badge&logo=spotify" alt="Listen to Sumakay Ka Na on Spotify">
 </a>
