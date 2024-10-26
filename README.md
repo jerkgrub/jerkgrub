@@ -7,11 +7,11 @@
 <!-- Profile Views -->
 ![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=green)
 
-<!-- Total Commits -->
-![Total Commits](https://badgen.net/github/commits/YourGitHubUsername/YourRepositoryName?icon=github)
+<!-- Total Commits Across All Repositories -->
+![Total Commits](https://github-readme-stats.vercel.app/api?username=jerkgrub&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 
 <!-- Total Repositories -->
-![Total Repositories](https://badgen.net/github/repos/YourGitHubUsername)
+![Total Repositories](https://badgen.net/github/repos/jerkgrub)
 
 <hr style="border: 1px solid #eaeaea; width: 80%;">
 
