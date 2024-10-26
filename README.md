@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Main Header with larger bold text -->
-<h1 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #333333; font-weight: bold; font-size: 4rem;">
+<h1 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #333333; font-weight: bold; font-size: 8rem;">
   God’s design, my code.
 </h1>
 
