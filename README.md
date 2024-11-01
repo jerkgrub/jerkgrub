@@ -2,7 +2,7 @@
 
 <!-- Main Header with larger bold text -->
 <h1 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #333333; font-weight: bold; font-size: 8rem;">
-  God’s design, my code.
+  Staying hungry, staying foolish.
 </h1>
 
 <!-- Display image below God's design, my code -->
